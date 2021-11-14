@@ -52,7 +52,7 @@
 
       },
       "local_offer" : {
-        "local_offer_state" : false
+        "local_offer_state" : true
       }
 	},
 	
