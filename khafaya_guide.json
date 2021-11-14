@@ -52,13 +52,13 @@
 
       },
       "local_offer" : {
-        "local_offer_state" : true
+        "local_offer_state" : false
       }
 	},
 	
 	"best_offers_activity" : {
-	    "ogads_app_install_state" : false,
-	    "local_offer_state" : false
+	    "ogads_app_install_state" : true,
+	    "local_offer_state" : true
 	}
   },
   "apps" : [
